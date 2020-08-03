@@ -1,6 +1,6 @@
 package ejemplo;
 
-public interface Campo {
-	String name();
-	double price();
-}
+  public interface Campo  {
+	 String name();
+	 double price();
+  }
